@@ -1,5 +1,8 @@
 package com.java17.sealedclasses;
 
 public  class Car {
-//this class is not sealed so this can't extends Person class
+
+	public int getCarAge(int caryear) {
+		return 2024 - caryear;
+	}
 }
