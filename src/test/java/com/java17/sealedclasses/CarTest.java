@@ -1,4 +1,4 @@
-package java17com.java.sealedclasses;
+package com.java17.sealedclasses;
 
 import static org.junit.jupiter.api.Assertions.*;
 
